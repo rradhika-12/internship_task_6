@@ -1,11 +1,11 @@
 # internship_task_6
 
-#Task 6 : Create a Strong Password and Evaluate Its Strength.
-##Objective: Understand what makes a password strong and test it against password strength tools.
-##Tools: Online free password strength checkers (e.g., passwordmeter.com).
-##Deliverables: Report showing password strength results and explanation.
+# Task 6 : Create a Strong Password and Evaluate Its Strength.
+### Objective: Understand what makes a password strong and test it against password strength tools.
+### Tools: Online free password strength checkers (e.g., passwordmeter.com).
+### Deliverables: Report showing password strength results and explanation.
 
-##Outcome: Understanding password security and best practices.
+## Outcome: Understanding password security and best practices.
 
 Tips Learned from Evaluation:
 
@@ -23,7 +23,7 @@ Identified Best Practices for Creating Strong Passwords:
     Use passphrases: Easy to remember, hard to crack (e.g., H0tcoFFea@6PM_Dai1Y!)
     Password managers: Use trusted tools (like Bitwarden or 1Password) to store unique, strong passwords
     
-#How Password Complexity Affects Security
+# How Password Complexity Affects Security
 
   Imagine your password is the key to your digital home — your emails, bank accounts, cloud data, social media, and even work systems. The more complex your password is, the harder it becomes for an attacker to break in.
     
